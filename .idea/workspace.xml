@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e60e0eb-af1e-4021-917d-d7b5ce19e540" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MNlP7qpO6MvrRo5SsBeJzwzUn6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../samurai-way-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\it-incubator\reactTs-s-incubatorom\my-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="D:\it-incubator\reactTs-s-incubatorom\my-app\src\components\Rating\Rating.tsx" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e60e0eb-af1e-4021-917d-d7b5ce19e540" name="Default Changelist" comment="" />
+      <created>1677615894748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677615894748</updated>
+      <workItem from="1677615904938" duration="39000" />
+      <workItem from="1677615948334" duration="6363000" />
+      <workItem from="1677703097052" duration="28600000" />
+      <workItem from="1677864343882" duration="4526000" />
+      <workItem from="1677869028838" duration="38000" />
+      <workItem from="1678112986350" duration="534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="153" key="FileChooserDialogImpl" timestamp="1678113519031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1678113519031" />
+    <state x="271" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1677615942039" />
+    <state width="1515" height="91" key="GridCell.Tab.0.bottom" timestamp="1678113523002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="91" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1678113523002" />
+    <state width="952" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1677703261334" />
+    <state width="1515" height="91" key="GridCell.Tab.0.center" timestamp="1678113523002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="91" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1678113523002" />
+    <state width="952" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1677703261334" />
+    <state width="1515" height="91" key="GridCell.Tab.0.left" timestamp="1678113523001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="91" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1678113523001" />
+    <state width="952" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1677703261334" />
+    <state width="1515" height="91" key="GridCell.Tab.0.right" timestamp="1678113523002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="91" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1678113523002" />
+    <state width="952" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1677703261334" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Rating/Rating.tsx</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
